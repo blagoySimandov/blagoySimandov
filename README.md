@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**blagoySimandov/blagoySimandov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Blagoy**, a CS student from Bulgaria currently based in Cork, Ireland. I like building things that people actually use - sometimes they even come back.
 
-Here are some ideas to get you started:
+When I'm not writing code, I'm probably writing on my [blog](https://simandoff.blog) or convincing myself that *this* side project will be the one I actually finish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Currently:** Building things at Abraxa and pretending to study at UCC.
+
+**Previously:** Taught kids to code, built a [real estate aggregator](https://github.com/blagoySimandov/homehive-be), built chat app, developed an attorney "marketplace", and launched an AI meal planner...
+So I've been busy :D
+
+---
+
+### Things I reach for
+
+`Go` `TypeScript` `Python` `Rust` `Kubernetes` `Terraform` `GraphQL` `CockroachDB` `Redis`
+
+...and whatever else gets the job done.
+
+---
+
+* 📝 **Blog:** [simandoff.blog](https://simandoff.blog)  
+* 💼 **LinkedIn:** [/in/blagoy-simandoff](https://www.linkedin.com/in/blagoy-simandoff-48416b27a/)
