@@ -8,7 +8,7 @@ When I'm not writing code, I'm probably writing on my [blog](https://simandoff.b
 
 **Currently:** Building things at Abraxa and pretending to study at UCC.
 
-**Previously:** Taught kids to code, built a [real estate aggregator](https://github.com/blagoySimandov/homehive-be), built a chat app, developed an attorney "marketplace", and launched an [AI meal planner](https://github.com/blagoySimandov/prepcart-fe)...
+**Previously:** Taught kids to code, built a [real estate aggregator](https://github.com/blagoySimandov/homehive-be), built a chat app, developed an attorney "marketplace", and launched an [AI meal planner](https://github.com/blagoySimandov/prepcart-fe) and recently an [nyt connections style game in bulgarian](https://connectionsbg.com/) ...
 
 So I've been busy :D
 
