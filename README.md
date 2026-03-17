@@ -24,4 +24,4 @@ So I've been busy :D
 
 * 📝 **Blog:** [simandoff.blog](https://simandoff.blog)  
 * 💼 **LinkedIn:** [/in/blagoy-simandoff](https://www.linkedin.com/in/blagoy-simandoff-48416b27a/)
-* **Portfolio Site** [site](http://blagoy.simandoff.com/)
+* **Portfolio Site** [blagoy.simandoff.com](http://blagoy.simandoff.com/)
